@@ -25,7 +25,7 @@ Haneke resizes images and caches the result on memory and disk. Everything is do
   s.author = 'Hermes Pique'
   s.social_media_url = 'https://twitter.com/hpique'
   s.source = { :git => 'https://github.com/Haneke/Haneke.git', :tag => "v#{s.version}" }
-  s.platform = :ios, '7.0'
+  s.platform = :ios, '14.0'
   s.requires_arc = true
   s.source_files = 'Haneke/*.{h,m}'
   s.framework = 'ImageIO'
